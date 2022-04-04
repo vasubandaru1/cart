@@ -6,6 +6,7 @@ module "cart" {
   SPOT_INSTANCE_COUNT = var.SPOT_INSTANCE_COUNT
   COMPONENT           = "cart"
   port                = 8080
+  IS_PRIVATE_LB        = true
 
 }
 
