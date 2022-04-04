@@ -6,3 +6,7 @@ module "cart" {
   SPOT_INSTANCE_COUNT = var.SPOT_INSTANCE_COUNT
 
 }
+
+output "INSTANCE_IDS" {
+  value = module.cart.INSTANCE_IDS
+}
