@@ -1,2 +1,2 @@
 ENV                   = "dev"
-INSTANCE_TYPE         = "t3.micro"
+INSTANCE_TYPE         = "t2.micro"
