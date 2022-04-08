@@ -1,9 +1,8 @@
 @Library('roboshop') _
 
-env.EX_COMP = 'cart'
-nodejs(
 
-   LABEL       = 'work',
-   COMPONENT    = 'cart'
+nodejs(
+     LABEL       = 'work',
+     COMPONENT    = 'cart'
 
 )
