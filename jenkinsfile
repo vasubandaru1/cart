@@ -2,7 +2,7 @@
 
 
 nodejs(
-      LABEL        : 'work'
+      LABEL        : 'master'
       COMPONENT    : 'cart'
 
 
