@@ -2,8 +2,9 @@
 
 
 nodejs(
-      COMPONENT    : 'cart'
       LABEL        : 'work'
+      COMPONENT    : 'cart'
+
 
 )
 
