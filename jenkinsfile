@@ -3,7 +3,7 @@
 env.EX_COMP = "cart"
 nodejs(
 
-   LABEL       = 'work'
+   LABEL       = 'work',
    COMPONENT    = 'cart'
 
 )
