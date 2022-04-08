@@ -3,7 +3,7 @@
 
 nodejs(
       COMPONENT    : 'cart'
+      LABEL        : 'work'
 
 )
 
-###
