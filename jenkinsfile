@@ -3,6 +3,6 @@
 
 nodejs(
       COMPONENT    : 'cart',
-      LABEL        : 'work'
+      LABEL        : ''
 
 )
