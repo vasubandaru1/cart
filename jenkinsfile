@@ -3,8 +3,7 @@
 
 nodejs(
 
-    COMPONENT     : 'cart'
-
-
+    COMPONENT     : 'cart',
+    LABEL         : 'master'
 )
 
