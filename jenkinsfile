@@ -2,7 +2,7 @@
 
 
 nodejs(
-        LABEL             : '',
+
         COMPONENT         :  'cart'
 )
 
