@@ -4,6 +4,6 @@
 nodejs(
 
     COMPONENT     : 'cart',
-    LABEL         : 'master'
+    LABEL         : 'work'
 )
 
